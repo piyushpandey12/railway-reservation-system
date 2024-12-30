@@ -1,0 +1,13 @@
+ankit,20,m,ac,lower,17-09-2024,23-10-2024,Confirmed,bihar,amritsar,durgiana express,7724,100011478,1,C63
+PIYUSH ,19,M,SL,UPPER,07-10-2024,24-10-2024,Confirmed,PATNA,SASARAM,DURGIANA EXPRESS,1041,100019169,1,D37
+ANKIT,20,M,SL,UPPER,07-10-2024,24-10-2024,Confirmed,PATNA,SASARAM,DURGIANA EXPRESS,1041,100026962,1,A79
+piyush,19,m,sl,upper,07-10-2024,24-10-2024,Confirmed,patna,sasaram,durgiana express,1041,100019169,1,D35
+piyush,19,m,sl,upper,07-10-2024,27-10-2024,Confirmed,patan,sasaram,durgiana express,1041,100019169,1,D38
+piyush,19,m,sl,upper,07-10-2024,24-10-2024,Confirmed,patana,sasaram,durgiana express,1041,100019169,1,D89
+avinash,20,m,sl,upper,08-10-2024,24-10-2024,Confirmed,patna,ara,durdiana express,1041,100019169,1,D76
+alok,20,m,sl,upper,08-10-2024,24-10-2024,Confirmed,new delhi,kolkata,rajdhani express,1041,100019169,1,D47
+anish,19,m,sl,upper,08-10-2024,24-10-2024,Confirmed,new delhi,kolkata,rajdhani express,1041,100026962,1,A79
+anish,30,m,ac,lower,08-10-2024,27-10-2024,Confirmed,delhi,patna,rajdhani express,1041,100019169,1,D31
+piyush,19,m,sl,upper,08-10-2024,24-10-2024,Confirmed,new delhi,kolkata,rajdhani ,1041,100019169,1,D34
+prashant,19,m,sl,upper,17-10-2024,27-10-2024,Confirmed,patna,sasaram,durgiana express,9704,100002812,1,B43
+piyush pandey,20,m,sleeper,upper,25-12-2024,21-01-2025,Confirmed,amritsar,sasaram,durgiana express,3328,100011600,1,C61
